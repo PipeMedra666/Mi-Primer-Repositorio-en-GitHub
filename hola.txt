@@ -3,3 +3,5 @@ Hola Mundo, estoy estudiando en Platzi.
 Esoy estudiando en el platzi day, estoy feliz :)
 
 Ahora se un poco más de git.
+
+Nova era.
